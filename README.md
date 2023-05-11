@@ -4,7 +4,7 @@ Kotlin is a versatile programming language that combines modern features with se
 
 ### Kotlin, Java, and Python across various aspects:
 
-**Syntax and Readability:**
+:asterisk: **Syntax and Readability:**
 
 **Kotlin:** Kotlin has a more concise and expressive syntax compared to Java. It reduces boilerplate code and provides features like null safety and extension functions, which can improve code readability.
 **Java:** Java has a more verbose syntax compared to Kotlin. It requires more lines of code for common tasks, but its syntax is widely known and easy to understand for many developers.
